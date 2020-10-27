@@ -1,0 +1,20 @@
+{
+    "Author": "Diomedes Ignacio Dom\u00ednguez Ure\u00f1a",
+    "ContentSize": 2080,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/easy-stopstart-for-websites-(app-services)/master/EasyStopStartWebApp.ps1",
+    "DownloadCount": 3971,
+    "Id": "Easy-StopStart-for-6515f4fb",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 28,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2017-10-10T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script stop/starts websites (app services) just by given a WebApp Name.",
+    "Title": "Easy Stop/Start for Websites (App services)",
+    "UpdatedDate": "2017-10-10T00:00:00",
+    "Url": "https://github.com/azureautomation/easy-stopstart-for-websites-(app-services)",
+    "UserTags": "Microsoft Azure, website, Windows Azure PowerShell"
+}
